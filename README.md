@@ -9,9 +9,9 @@
 
 ## Dependencies
 ```
-Python 3.6
-Troch == 1.7.0+cu110
-pandas == 1.1.5
-scikit-learn == 1.0.1
+Python 3.7
+Troch == 1.13.1+cu116
+pandas == 1.3.5
+scikit-learn == 1.0.2
 numpy == 1.21.6
 ```
