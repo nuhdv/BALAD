@@ -1,4 +1,13 @@
 # BALAD
+ICASSP24 - Time Series Anomaly Detection
+
+This is the source code of the paper  **"BOUNDARY-DRIVEN ACTIVE LEARNING FOR ANOMALY DETECTION IN TIME SERIES DATA STREAMS"** accepted by ICASSP24 (to appear).
+
+[//]: # "## Citation"
+
+[//]: # "Please cite our paper if you find this code is useful.  "
+
+[//]: # "Zhou Xiaohui, Wang Yijie, Xu Hongzuo, Liu Mingyu. BOUNDARY-DRIVEN ACTIVE LEARNING FOR ANOMALY DETECTION IN TIME SERIES DATA STREAMS"
 ## Usage
 1. run main.py for sample usage.
 2. Data set: You may want to find the sample input data set in the "datasets" folder.
